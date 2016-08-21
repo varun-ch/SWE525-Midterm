@@ -1,1 +1,2 @@
 New file in the feature3
+5c - insert from feature5
