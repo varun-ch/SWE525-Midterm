@@ -3,3 +3,4 @@ this is second line in second file
 this is third line in second file
 line 5 in file2
 another new line in 2nd file
+insert a line in file2 from feature2
