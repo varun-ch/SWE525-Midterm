@@ -5,3 +5,4 @@ Created to test pull test.
 Editing this file to test the difference between pull and fetch.
 Were you able to see the remote changes????
 The fetch is merge is successful. I can see the changes in local repository. 
+Even I can read the changes from the branch feature3
