@@ -1,3 +1,5 @@
 This is a file created on remote repository. 
 Similar to file checked in by another developer.
 Created to test pull test.
+
+Editing this file to test the difference between pull and fetch.
