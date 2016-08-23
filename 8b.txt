@@ -1,4 +1,4 @@
 8b
 this is first version of 8b
-a new line in 8b
-another new line in 8b
+testing git checkout
+also testing git reset
